@@ -1,0 +1,27 @@
+{
+  "name": "namste-react-2",
+  "version": "1.0.0",
+  "description": "This is Namaste React 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thakuranshusingh/Namaste-React-2.0.git"
+  },
+  "author": "Anshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thakuranshusingh/Namaste-React-2.0/issues"
+  },
+  "homepage": "https://github.com/Thakuranshusingh/Namaste-React-2.0#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

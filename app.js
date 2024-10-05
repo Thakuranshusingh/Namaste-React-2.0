@@ -1,4 +1,7 @@
-const heading = React.createElement("h1", {id:"heading", xyz:"ABC"}, "Hello world from React");
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+//const heading = React.createElement("h1", {id:"heading", xyz:"ABC"}, "Hello world from React");
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -14,4 +17,4 @@ const heading2 = React.createElement("div", {id:"Parent"}, [
 ]);
 root.render(heading2);
 
-console.log(heading);
+console.log(heading2);
